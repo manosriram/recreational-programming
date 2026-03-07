@@ -1,0 +1,19 @@
+{
+	"name": "Mano",
+	"country": "India",
+	"youtube": {
+		"video_count": 50,
+		"total_views": 100,
+		"videos": [
+			{
+				"title": "title 1",
+				"created_at": "05-03-2026"
+			},
+			{
+				"title": "title 2",
+				"created_at": "07-03-2026"
+			}
+		]
+	},
+	"total_time_spent": 1000
+}
